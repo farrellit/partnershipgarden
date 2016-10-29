@@ -43,6 +43,5 @@ permalink: /resources/
 <li>Use Edges and Value the Marginal</li>
 <li>Creatively Use and Respond to Change</li>
 </ol>
-</ul>
 <cite><u>Permaculture: Principles and Pathways beyond Sustainability</u> by David Holmgren</cite>
 </p>
